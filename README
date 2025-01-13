@@ -1,0 +1,26 @@
+# CIRCLE
+[![Made with Godot](https://img.shields.io/badge/Made%20with-Godot-478CBF?style=flat&logo=godot%20engine&logoColor=white)](https://godotengine.org) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+Circle is a Free and Open Source 3D RPG released under GNU GPL v3 (see LICENSE file)
+
+## DEPENDENCIES / TOOLS 
+
+Circle use only FOSS Software : 
+
+- Godot Game Engine 4.3 : https://godotengine.org/
+
+- Blender : https://www.blender.org/
+
+- krita : https://krita.org/fr/
+
+- PureData : https://puredata.info/
+
+- LibPD : https://github.com/libpd/libpd
+
+it's developped mainly with GDScript, but uses C++ and GDExtension for communicating with PureData Patches.
+
+## Contributing 
+
+Circle is a solo gamedev project but feel free to fork or make PR's
+
+
